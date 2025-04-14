@@ -1,0 +1,5 @@
+time="2025-04-13 10:56:45" level=info Agent=PostmanRuntime-ApipostRuntime/1.1.0 DataSize=548 HostName=jwj Ip="::1" Method=GET Path="/api/v1/users?pagesize=&pagenum=" Spendtime="2 ms" status=200
+time="2025-04-13 10:57:13" level=info Agent=PostmanRuntime-ApipostRuntime/1.1.0 DataSize=548 HostName=jwj Ip="::1" Method=GET Path="/api/v1/users?pagesize=&pagenum=" Spendtime="11 ms" status=200
+time="2025-04-13 11:01:18" level=info Agent=PostmanRuntime-ApipostRuntime/1.1.0 DataSize=548 HostName=jwj Ip="::1" Method=GET Path="/api/v1/users?pagesize=&pagenum=" Spendtime="1 ms" status=200
+time="2025-04-13 11:03:01" level=info Agent=PostmanRuntime-ApipostRuntime/1.1.0 DataSize=548 HostName=jwj Ip="::1" Method=GET Path="/api/v1/users?pagesize=&pagenum=" Spendtime="8 ms" status=200
+time="2025-04-13 22:25:26" level=info Agent=PostmanRuntime-ApipostRuntime/1.1.0 DataSize=66 HostName=jwj Ip="::1" Method=POST Path=/api/v1/user/add Spendtime="1 ms" status=200
